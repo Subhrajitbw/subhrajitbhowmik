@@ -57,7 +57,7 @@ const SocialIcons = (props) => {
         <a
           style={{ color: "inherit" }}
           target="_blank"
-          ref="noreferrer"
+          rel="noreferrer"
           href={"https://twitter.com/laltu_bh"}
         >
           <Twitter
